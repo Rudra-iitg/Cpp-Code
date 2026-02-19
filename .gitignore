@@ -1,0 +1,17 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+*.dSYM/
+trial
+comp
+StartingC++/Workspace1/a
+
+# Swap / editor files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
